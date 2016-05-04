@@ -1,0 +1,15 @@
+{
+  "name": "ogdabou.ninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "ogdabou",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}

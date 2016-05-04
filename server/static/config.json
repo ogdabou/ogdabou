@@ -1,0 +1,47 @@
+{
+  "infra": [{
+    "name": "Grafana",
+    "type": "infra",
+    "goal": "Grafana for development purpose.",
+    "url": "http://grafana.ogdabou.ninja/",
+    "year": "2016"
+  }],
+  "ongoing": [{
+    "name": "sponsor-detector",
+    "type": "personnal",
+    "github": "https://github.com/SponsorDetector",
+    "goal": "Learn how to code a firefox / chrome application.",
+    "language": "JavaScript",
+    "using": "Pure JS, NodeJS, Elasticsearch, Grafana",
+    "url": "http://url-to-sp.com",
+    "year": "2016"
+  }],
+  "others": [{
+    "name": "givemeashow",
+    "type": "personnal",
+    "github": "https://github.com/GiveMeAShow/givemeashow",
+    "goal": "Learn : open source development, continuous integration, spring.",
+    "language": "Java",
+    "using": "Spring & shit",
+    "year": "2014-2015"
+  }, {
+    "name": "JarlSecurity",
+    "type": "school",
+    "given-instructions": "static/......pdf",
+    "github": "https://github.com/GiveMeAShow/givemeashow",
+    "goal": "Learn : open source development, continuous integration, spring.",
+    "language": "Java",
+    "using": "Spring & shit",
+    "year": "2014-2015"
+  }, {
+    "name": "Indago",
+    "type": "school",
+    "given-instructions": "static/......pdf",
+    "rendu": "",
+    "github": "https://github.com/GiveMeAShow/givemeashow",
+    "goal": "Learn : open source development, continuous integration, spring.",
+    "language": "Java",
+    "using": "Spring & shit",
+    "year": "2014-2015"
+  }]
+}
